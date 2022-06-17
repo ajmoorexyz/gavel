@@ -58,7 +58,7 @@ We'd really appreciate any kind of input, especially pull requests.
 
 ## Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mfalbers/gavel/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/truckfondue/gavel/tree/master)
 
 The latest stable version is the `master` branch (and it's signed and tagged).
 Development happens in the `develop` branch.
